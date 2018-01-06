@@ -1,2 +1,2 @@
 call activate_Python27
-python ranking_factorization_recommender.py
+python recommender.py
